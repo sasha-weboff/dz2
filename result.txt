@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Домашнее задание по Docker Image</title>
+</head>
+<body>
+    <h1>Hello, Docker!</h1>
+    <p>Это мой первый веб-сервер в Docker.</p>
+</body>
+</html>
